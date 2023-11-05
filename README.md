@@ -20,23 +20,23 @@ I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as
 
 <p align="center">
 Created Virtual Machine: <br/>
-<img src="https://imgur.com/NL7ODty" height="80%" width="80%" alt="Virtual Machine"/>
+<img src="https://imgur.com/NL7ODty.png" height="80%" width="80%" alt="Virtual Machine"/>
 <br />
 <br />
 Script:  <br/>
-<img src="https://imgur.com/dIdXpCt" height="80%" width="80%" alt="Script"/>
+<img src="https://imgur.com/dIdXpCt.png" height="80%" width="80%" alt="Script"/>
 <br />
 <br />
 PowerShell ISE: <br/>
-<img src="https://imgur.com/eq1E133" height="80%" width="80%" alt="PowerShell"/>
+<img src="https://imgur.com/eq1E133.png" height="80%" width="80%" alt="PowerShell"/>
 <br />
 <br />
 SIEM:  <br/>
-<img src="https://imgur.com/Kxh0H7T" height="80%" width="80%" alt="SIEM"/>
+<img src="https://imgur.com/Kxh0H7T.png" height="80%" width="80%" alt="SIEM"/>
 <br />
 <br />
 MAP:  <br/>
-<img src="https://imgur.com/CHBqhui" height="80%" width="80%" alt="MAP"/>
+<img src="https://imgur.com/CHBqhui.png" height="80%" width="80%" alt="MAP"/>
 <br />
 <br />
 
